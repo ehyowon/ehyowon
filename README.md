@@ -17,5 +17,5 @@
 
 #### Github Stats :
 <img src="https://github-readme-stats.vercel.app/api?username=ehyowon&show_icons=true&hide_border=true" height="166px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehyowon&layout=compact" />
+
 
